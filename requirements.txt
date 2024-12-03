@@ -1,6 +1,5 @@
 numpy
 pandas
-zipfile
 matplotlib
 requests
 io 
