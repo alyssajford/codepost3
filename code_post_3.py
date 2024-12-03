@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import streamlit as st
 
-dessert = pd.read_csv(r"C:\Users\alyss\BYU\Stat 386\codepost3\dessert_cookies.csv")
+dessert = pd.read_csv("dessert_cookies.csv")
 
 st.write("Find Your Favorite Dessert")
 
